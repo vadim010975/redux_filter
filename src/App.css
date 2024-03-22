@@ -1,0 +1,17 @@
+.position__work, .position__price {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.position__btn {
+  cursor: pointer;
+}
+
+.form__input {
+  width: 200px;
+}
+
+.form-filter__input {
+  width: 400px;
+  margin-bottom: 5px;
+}
